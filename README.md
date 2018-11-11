@@ -1,1 +1,3 @@
 # psychic-game
+
+In this game the computer will guess a random letter and the user will have 9 attempts to guess the random letter.  When the player guesses correctly, they will tally a win and the game will reset automatically with a new random number.  When the player exhausts all 9 attempts without guessing correctly, a loss will be tallied and the game will reset automatically with a new random number. 
